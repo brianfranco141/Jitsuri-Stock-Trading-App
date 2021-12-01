@@ -16,7 +16,7 @@ Tools needed to install in order to run:
 1. Sqlite3 - found here: https://docs.python.org/3/library/sqlite3.html
 2. Alpaca trading account - found here and free to sign up: https://alpaca.markets/
 3. tulipy - found here - https://pypi.org/project/tulipy/ (pip install tulipy)
-4. numpy 1.21.4 - found here - https://pypi.org/project/numpy/
+4. numpy 1.21.4 - found here - https://pypi.org/project/numpy/ (pip install numpy)
 5. Uvicorn -found here - https://www.uvicorn.org/ (pip install uvicorn)
 
 
