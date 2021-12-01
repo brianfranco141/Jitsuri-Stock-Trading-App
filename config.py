@@ -4,7 +4,7 @@
 # connection for front end:
 # server startup:  uvicorn main:app --reload
 
-# Both the API_KEY and SECRET_KEY can be obtained through the alpaca trading platform 
+# Both the API_KEY and SECRET_KEY can be obtained through the alpaca trading platform here https://forum.alpaca.markets/t/how-to-find-secret-key/655
 API_KEY  = 
 SECRET_KEY = 
 
