@@ -23,7 +23,7 @@ Tools needed to install in order to run:
 Setup is fairly stright forward
 
 Instructions:
-1. Go to config file and there will be detailed instructions on how the setup with the brokerage is done/
+1. Go to the config file and there will be detailed instructions on how the setup with the brokerage is done
 1. Run the python file create_db.py to create the database for Jistsuri.
 2. Need to populate the database with both stocks and prices. 
    Note: Need to populate stocks before being able to add prices. Has to run in in a specific order
