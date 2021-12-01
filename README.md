@@ -1,6 +1,6 @@
 # Jitsuri Stock-Trading-App
 what is Jitsuri you might say? 
-An open-source full stack algorithmic trading application that is fast, rebust, and scalable. 
+An open-source full stack algorithmic trading application that is fast, rebust, and scalable. Includes various functions for custom alerts on positions made on Jitsuri via sms text and email.
 
 
 Why Alpaca as a brokerage?
