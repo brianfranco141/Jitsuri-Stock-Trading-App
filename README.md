@@ -1,1 +1,1 @@
-# Stock-Trading-App
+# Jitsuri Stock-Trading-App
