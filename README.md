@@ -33,7 +33,7 @@ Instructions:
 
 Contributing to Jitsuri!
 
-Feel free to justign up for any issues that we have avaibl and fork the branch or install locally. 
+Feel free to just tackle any issues that we have/ need to be completed
 
 After create a pull-requests and wait for approval to merge to our main branch.
 
