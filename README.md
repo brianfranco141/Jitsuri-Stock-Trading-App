@@ -6,7 +6,7 @@ An open-source full stack algorithmic trading application that is fast, robust, 
 Why Alpaca as a brokerage?
 Whats unique and special about Alpaca and why I have gone ahead and used it is that there exists a back-testing environment that can is simple to use compared to conventional brokerages due to having the option of swithcing between actual trading and paper-trading capablities offered. Paper trading is using sythetic funds to purchase stocks with real-time markets which can be very benefical in not risking any actual funds,
 
-Note: It is not required to use alpaca trading borkerage for this application, various borkerage platform offer other api services you can implement within Jitsuri easily. Just will need to outsource for stock and price data, since we use Alpaca that kindly offers minute data for free unlike many other services. 
+Note: It is not required to use alpaca trading brokerage for this application, various borkerage platform offer other api services you can implement within Jitsuri easily. Just will need to outsource for stock and price data, since we use Alpaca that kindly offers minute data for free unlike many other services. 
 
 Provided a simple opening range breakout stategy with an example of of how buy and sell orders are executed with alpaca trading api, for more details please read alpaca docs found here https://alpaca.markets/docs/ on how to intereact with Alpaca effectivly. 
 
