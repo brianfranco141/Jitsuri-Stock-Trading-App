@@ -1,0 +1,5 @@
+#“At 06:30 on every day-of-week from Monday through Friday.”
+#30 6 * * 1-5 /usr/bin/python3 /Users/brianfracno/Developer/Projects/algorithmic-trading/fullstack-trading-app/populate_prices.py >> populate.log 2>&1
+
+#“At every minute on every day-of-week from Monday through Friday.”
+#*/1 * * * * /usr/bin/python3 /Users/brianfracno/Developer/Projects/algorithmic-trading/fullstack-trading-app/opening_range_breakout.py >> trade.log 2>&1
