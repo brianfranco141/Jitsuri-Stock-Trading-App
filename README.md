@@ -1,5 +1,5 @@
 # Jitsuri Stock-Trading-App
-what is Jitsuri you might say? 
+
 An open-source full stack algorithmic trading application that is fast, robust, and scalable. Includes various functions for custom alerts on positions made on Jitsuri via sms text and email. Why reinvent the wheel when powerful api services such as Trading View exist! Jisturi front-end offers high functional charting of stocks and pricing thanks to Trading-View!
 
 
