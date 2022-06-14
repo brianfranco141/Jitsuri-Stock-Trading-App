@@ -43,7 +43,7 @@ cursor.execute("""
     )
 """)
 
-strategies = ['opening_range_breakout', 'opening_range_breakdown', 'beta_hedging', 'confidence_intervals', 'auto_correlation_and_ar_models', 'factor_analysis', 'traditoional_value_factor', 'risk_exposure', 'linear_regression']
+strategies = ['liquidate_poistions', 'opening_range_breakdown', 'long_smallcaps', 'short_bigtech', 'auto_correlation_and_ar_models', 'news_scanner', 'traditoional_value_factor', 'risk_exposure', 'linear_regression']
 
 for strategy in strategies:
     cursor.execute("""
